@@ -100,8 +100,6 @@ Experimented with 10 different CNN architectures. Below is a summary of each:
 
 ---
 
----
-
 ## 📈 Results
 
 | Network | No of Conv Layers | No of Filters/Layer | Pooling | No of Dense Layers| No. Neurons/Layer | Batch Size | No. Epochs | Dropout (Y/N) | BatchNormalization (Y/N) | Trainable Parameters | Non Trainable Parameters | Pretrained Model | Kernel Regularizer | Training Accuracy | Validation Accuracy | Training Loss | Validation Loss | 
